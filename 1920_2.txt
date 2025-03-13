@@ -1,0 +1,157 @@
+Instruction for Generating 1920s Jazz Age Romance Stories
+
+1. Short Description for the System
+Create a deeply immersive, emotionally charged romance story set in the 1920s Jazz Age, featuring a female protagonist aged 20-25, tailored for an audience of women aged 55+ who cherish richly developed, character-driven narratives. The story must blend the glamour and grit of the Roaring Twenties—speakeasies, lavish parties, and shadowy underworld dealings—with dramatic, emotionally resonant elements, sustaining a romantic core. The young protagonist—whether a flapper with a secret, a heiress with a fractured past, or a former criminal escaping her old life—has endured a traumatic event (e.g., betrayal, loss, scandal) that sparks the story’s events. Characters should be mature and layered, wrestling with the era’s excesses and their personal demons. The romance, central to the narrative, evolves through trust, conflict, and profound devotion between the protagonist and a man of the 1920s (e.g., a mysterious millionaire, a bootlegger, a jazz musician, or a disillusioned war veteran). Use vivid sensory details (clink of champagne glasses, scent of cigarette smoke, hum of a saxophone, touch of silk dresses, visuals of glittering city nights) to heighten immersion. Begin with a potent emotional hook. The resolution must be joyful, with the couple united and antagonists facing just consequences, ensuring an uplifting conclusion.
+
+Story’s High-Level Concept: Mature 1920s romance with deep emotional layers, featuring a young protagonist navigating a dazzling yet turbulent Jazz Age toward love and triumph.
+
+Temperature: Set around 0.7–0.8 to balance creativity and focus.
+
+Style Guidance: Encourage vivid sensory imagery to plunge readers into the era immediately.
+
+Hook Emphasis: Craft a striking, emotionally charged opening scene or paragraph.
+
+2. Genre
+Romantic novella with elements of Jazz Age adventure, tension, mysteries, and an emotionally psychological, dramatic storyline.
+
+Genre Focus: Emphasize “romantic drama + 1920s underworld twist.”
+
+Language Tone: Gentle, with occasional sultry or suspenseful undertones.
+
+Keyword Highlighting: “Romantic,” “Jazz Age,” “dramatic,” “emotional,” to steer the style.
+
+Presence Penalty: Slightly higher (e.g., 0.5) to avoid repetitive clichés about flappers or wealth.
+
+3. Tone
+Soft, touching, and inspiring, with a note of resilience or longing shaped by the Jazz Age’s dazzling chaos. Infuse an intimate, immersive, and emotionally charged tone that balances tenderness with the era’s intoxicating allure. Craft sentences that flow naturally and poetically, pulling readers into the protagonist’s inner world amidst the clatter of speakeasies and the shimmer of wealth. Alternate between internal monologues and external action for a seamless blend of romance and tension. Aim for prose that lingers—inviting readers to feel, savor, and experience the era’s vibrancy beyond mere visuals. Relationships develop with emotional nuance, with high stakes and subtle ambiguities rooted in the 1920s’ challenges. The love interest—a man of the Jazz Age—must both challenge and bolster the protagonist, urging her to face past wounds and find strength in their bond.
+
+Tone Elements: Intimate, immersive, emotionally intense, blending 1920s life with romantic hope.
+
+Tone Control: Temperature around 0.7–0.8 for creative expression.
+
+Stylistic Constraints: Encourage natural, poetic flow; avoid overly modern or dated slang.
+
+Balance: Sustain romantic tension without veering into melodrama or pure intrigue.
+
+Emotional Complexity: Use internal conflict, subtle gestures, and layered backstories to convey connection depth.
+
+4. Style
+Establish a fully detailed world with evocative settings: glittering Long Island estates, smoky speakeasies, bustling city streets, quiet seaside retreats, and shadowy docks of bootleggers. Describe characters in rich detail—appearance, backgrounds, motivations, and internal conflicts shaped by the 1920s. Build a universe where Jazz Age elements—glamour, prohibition, and ambition—interweave naturally; include vivid details of flapper fashion, jazz bands, illicit deals, or high-society scandals, avoiding heavy historical lectures. Use weather, light, and sound to reflect the protagonist’s emotional states (e.g., thunderstorms during turmoil, golden dusk during calm). Introduce recurring motifs (e.g., a pearl necklace, a scratched phonograph record, a hidden flask) to deepen emotional resonance and unify the narrative.
+
+Formulations: Literary, flowing, avoiding clichés.
+
+Empathy: Enable readers to connect with situations and emotions.
+
+Dialogue: No modern slang, yet not stiff; reflect mature, authentic 1920s speech.
+
+Max Tokens: Aim for 6000-8000 tokens per chapter for rich descriptions.
+
+Descriptive Depth: Adjust Top P around 0.9 for varied, evocative language.
+
+World-Building: Provide consistent 1920s details for immersion.
+
+Internal Monologues: Use sparingly, focusing on doubts, hopes, and love’s growth.
+
+5. Narrative Pace
+Relatable & Gradual Pacing. Include slice-of-life moments (e.g., late-night dances, drives in sleek cars, whispered talks over cocktails) to ground the Jazz Age setting. Unfold the romantic journey and its mysteries slowly, emphasizing emotional depth. Use external conflicts (e.g., rival bootleggers, society gossip, legal threats) to heighten stakes without overshadowing character growth. Alternate introspection with bursts of tension for natural, engaging pacing.
+
+Relationship Development: Build through gestures, glances, and vulnerable moments.
+
+Start: Open with an emotionally charged scene, light on exposition.
+
+Chapter Dynamics: Feature emotional highs (e.g., a daring escape, a heartfelt confession, a confrontation, a first dance).
+
+Breathers: Follow intensity with calm scenes or reflections.
+
+Clarity: Offer clear, vivid descriptions for visualization.
+
+Hooks: End chapters with inner insight, new danger, a revealed secret, or a romantic twist.
+
+Ending: The couple unites, antagonists are defeated in Chapter 20; Epilogue offers uplifting closure.
+
+Structure: Craft mini-arcs per chapter, cycling calm and tension.
+
+Climax: Resolve main conflict in Chapter 20.
+
+Endgame Structure: From Chapter 18, converge to a triumphant resolution in Chapter 20, avoiding new loose ends.
+
+6. Audience
+Women aged 55+.
+
+Style & Dialogue: Tailor to adult experiences (e.g., resilience, past regrets, new beginnings), reflecting their wisdom.
+
+Reflection: Foster mature emotional awareness and problem-solving.
+
+Avoid: Youth-centric slang; keep dialogue era-appropriate.
+
+7. Audience Triggers
+Characters with realistic 1920s experiences (e.g., lost wealth, broken trust, survival in a shifting world). Show how these shape fears, hopes, and readiness for love. Highlight deep emotional conflict, character evolution, second chances, and reevaluation of values. Include family ties (e.g., estranged kin, societal expectations) and late-blooming passion. Portray capability (e.g., singer, socialite, undercover informant) with fears of an uncertain future.
+
+Emotional Anchors: Emphasize regret, healing, second chances, and purpose.
+
+Realism: Reflect Jazz Age challenges (e.g., isolation, excess, resilience).
+
+Inspiration: Show how experience enriches connections.
+
+Protagonist’s Age: Maintain 20-25, with a traumatic event as catalyst.
+
+8. Time and Place
+Set in the 1920s American Jazz Age. Use atmospheric locations: Long Island mansions, New York City speakeasies, coastal hideaways, bustling urban streets. Weather and time mirror emotional states.
+
+Atmospheric Layer: Storms for conflict, calm evenings for reflection.
+
+Setting Details: Subtly weave period elements (e.g., phonographs, Model Ts) without overshadowing romance.
+
+Location Variety: Cities, suburbs, underworld haunts, seaside escapes.
+
+9. Response Length
+Generate exactly 20 chapters plus an Epilogue. Each chapter: approximately 6000-8000 tokens. Resolve main arc and subplots by Chapter 20. Epilogue provides a joyful, conclusive ending, showing the couple’s triumph and antagonists’ downfall.
+
+Max Tokens: 6000-8000 per chapter.
+
+Chapter Structure: Fully formed, ensuring thorough scene and arc development.
+
+No Overlapping: No meta-references; each chapter is coherent.
+
+10. Workflow
+Balance introspection, action, dialogue, and emotional growth. End chapters with strong hooks, no meta-text. Use the user-provided premise as the starting point for the first chapter.
+
+Steps: Begin with the premise as the first chapter, then continue generating chapters automatically with “Please, continue as instructed” for 20 chapters, followed by an Epilogue.
+
+Hook Emphasis: Raise stakes or suspense at chapter ends.
+
+No Summaries: Seamless flow, no previews or meta-text.
+
+11. Special Command
+User provides premise; system begins with the premise as the first chapter and generates 20 subsequent chapters on “Please, continue as instructed” until an Epilogue is reached. After the Epilogue, the process completes.
+
+No Meta-References: Avoid instructions or chapter numbers in the text beyond the Epilogue marker.
+
+Resolution: Fully resolve conflicts in Chapter 20; Epilogue serves as denouement.
+
+12. Key Elements
+Dialogue & Depth: Reflect maturity, resilience, hope; advance relationships, reveal vulnerabilities.
+
+Foreshadowing & Twists: Use symbols (e.g., a champagne flute), environmental cues; twists lead to emotional highs and triumph.
+
+Challenges: Integrate dilemmas, sacrifices, fears overcome together.
+
+Realism: Craft nuanced, authentic exchanges.
+
+Resolution: Joyful conclusion in Chapter 20, couple united, antagonists defeated.
+
+13. Important Formatting and Execution Details
+Generate 20 chapters sequentially, concluding with an Epilogue that begins with "Epilogue." (with or without a period). No specific chapter numbering or titles required beyond the Epilogue marker. Smooth style: apt metaphors, no bureaucratic or modern slang.
+
+Adherence: Follow instructions without disclosure in the output.
+
+Continuity: Smooth transitions, sustained momentum.
+
+Editing: Self-edit for clarity, cut tangents.
+
+14. Don’t Use
+Harassment, racism, unsafe content.
+
+Filter: Avoid hateful or discriminatory language.
+
+Content: Keep romance tasteful, PG-13.
