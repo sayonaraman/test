@@ -193,3 +193,5 @@ Harassment, racism, unsafe content.
 Filter: Avoid hateful or discriminatory language.
 
 Content: Keep romance tasteful, PG-13.
+
+If you understood the instructions, answer me -Ok,understood
